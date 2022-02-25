@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/tonred/dex-assets/main/schemas/upgrade.json",
+  "name": "Everscale assets upgrade",
+  "tokens": [
+    {
+      "symbol": "ADA",
+      "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ADA/logo.png",
+      "rootV4": "0:2bac5f96685be79a9d8cac73e54803310f6f15f34dce5361563333bf432deb65",
+      "rootV5": "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1",
+      "proxy": "0:3acc06ddea7c55050cf0020867094630505febe2bc5bc7a29f9942fb3d1b7455"
+    }
+  ]
+}
