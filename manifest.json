@@ -18,126 +18,126 @@
             "chainId": 1,
             "symbol": "OCC",
             "decimals": 6,
-            "address": "0:f172e52b97b622bfd62a24a90951cb90bb4f4382f312a2b03190179ad5b9ef43",
+            "address": "0:c4eadf9a5bbb06ff582607d274e9c787aa65bc4a275ad703fd232c7c65b6a3c2",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/OCC/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Cardano",
             "chainId": 1,
             "symbol": "ADA",
             "decimals": 6,
-            "address": "0:2bac5f96685be79a9d8cac73e54803310f6f15f34dce5361563333bf432deb65",
+            "address": "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ADA/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Liqwid Finance",
             "chainId": 1,
             "symbol": "LQX",
             "decimals": 6,
-            "address": "0:3ddb481b4ccb585b822dc68686f6327ad2942d2da0093a4222f4f23e6529deef",
+            "address": "0:c3644f9a7990df4682a4815405191378d2a5a2c6d498f8c432ee91d41fd42105",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/LQX/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "ADAX Pro",
             "chainId": 1,
             "symbol": "ADAX",
-            "decimals": 0,
-            "address": "0:83cfdc4dbd6bb326e538652ee58a4cc95ff3d95946e336985c19da689d52ff05",
+            "decimals": 6,
+            "address": "0:c1a78b3c082a91405579959f0398a4a78abc7d4832c93f5da5ca18f440c91eb6",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ADAX/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "ErgoDex",
             "chainId": 1,
             "symbol": "ERGO",
-            "decimals": 0,
-            "address": "0:535168297f897dc834a0e2e2c431474eb3b9222f7fe1f30da5abdeeb382653c1",
+            "decimals": 6,
+            "address": "0:d59c00be81e78c9a733de993f1ac9a1656ae8537dfa3f5aa9b66ba0c1a401dec",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ERGO/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Ardana",
             "chainId": 1,
             "symbol": "DANA",
             "decimals": 6,
-            "address": "0:9f6a4d6fb77ee7751dd0de83c2216d132a3ede6c4071865953b2c59355c422ce",
+            "address": "0:dfb469b5ffe699b6347cc5300f89a2b6563f7796262a0d5f865dea5c5cbd5ada",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/DANA/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Liqwid DAO Token",
             "chainId": 1,
             "symbol": "LQ",
             "decimals": 6,
-            "address": "0:c7e6cfffcb2cbb769737e1208fb248277661c2d3bc90c85ea136f1ac1ccd491f",
+            "address": "0:4e72c5630af97744dac251221c3f16e4d4c0c8cdb13d4e301765ed2e9e52b496",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/LQ/logo.png",
-            "version": 4
+            "version": 5
         },
         {
             "name": "CardWallet",
             "chainId": 1,
             "symbol": "CW",
-            "decimals": 0,
-            "address": "0:42e8878016be58ad51ea0af9dbd6b191d47e8973bd0cf37eec8ba7532e55313a",
+            "decimals": 6,
+            "address": "0:d320bc356f5277a890987a9212c63037ccf44346f8733a46d1d8fe8d62526843",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/CW/logo.png",
-            "version": 4
+            "version": 5
         },
         {
-            "name": "Wrapped TON",
+            "name": "Wrapped EVER",
             "chainId": 1,
-            "symbol": "WTON",
+            "symbol": "WEVER",
             "decimals": 9,
-            "address": "0:0ee39330eddb680ce731cd6a443c71d9069db06d149a9bec9569d1eb8d04eb37",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WTONv3/logo.svg",
-            "version": 4
-        },
-        {
-            "name": "Tether",
-            "chainId": 1,
-            "symbol": "USDT",
-            "decimals": 6,
-            "address": "0:751b6e22687891bdc1706c8d91bf77281237f7453d27dc3106c640ec165a2abf",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
-            "version": 4
-        },
-        {
-            "name": "USD Coin",
-            "chainId": 1,
-            "symbol": "USDC",
-            "decimals": 6,
-            "address": "0:1ad0575f0f98f87a07ec505c39839cb9766c70a11dadbfc171f59b2818759819",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
-            "version": 4
+            "address": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg",
+            "version": 5
         },
         {
             "name": "Dai Stablecoin",
             "chainId": 1,
             "symbol": "DAI",
             "decimals": 18,
-            "address": "0:95934aa6a66cb3eb211a80e99234dfbba6329cfa31600ce3c2b070d8d9677cef",
+            "address": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
-            "version": 4
+            "version": 5
+        },
+        {
+            "name": "Tether",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
+            "version": 5
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 1,
+            "symbol": "USDC",
+            "decimals": 6,
+            "address": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
+            "version": 5
         },
         {
             "name": "Wrapped BTC",
             "chainId": 1,
             "symbol": "WBTC",
             "decimals": 8,
-            "address": "0:6e76bccb41be2210dc9d7a4d0f3cbf0d5da592d0cb6b87662d5510f5b5efe497",
+            "address": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WBTCv3/logo.svg",
-            "version": 4
+            "version": 5
         },
         {
             "name": "Wrapped Ether",
             "chainId": 1,
             "symbol": "WETH",
             "decimals": 18,
-            "address": "0:45f682b7e783283caef3f268e10073cf08842bce20041d5224c38d87df9f2e90",
+            "address": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
             "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
-            "version": 4
+            "version": 5
         }
     ]
 }
