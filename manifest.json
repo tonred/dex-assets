@@ -14,21 +14,30 @@
     "timestamp": "2021-12-02T12:15:51.633Z",
     "tokens": [
         {
-            "name": "OccamFi",
-            "chainId": 1,
-            "symbol": "OCC",
-            "decimals": 6,
-            "address": "0:c4eadf9a5bbb06ff582607d274e9c787aa65bc4a275ad703fd232c7c65b6a3c2",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/OCC/logo.png",
-            "version": 5
-        },
-        {
             "name": "Cardano",
             "chainId": 1,
             "symbol": "ADA",
             "decimals": 6,
             "address": "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1",
             "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ADA/logo.png",
+            "version": 5
+        },
+        {
+            "name": "Wrapped EVER",
+            "chainId": 1,
+            "symbol": "WEVER",
+            "decimals": 9,
+            "address": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg",
+            "version": 5
+        },
+        {
+            "name": "OccamFi",
+            "chainId": 1,
+            "symbol": "OCC",
+            "decimals": 6,
+            "address": "0:c4eadf9a5bbb06ff582607d274e9c787aa65bc4a275ad703fd232c7c65b6a3c2",
+            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/OCC/logo.png",
             "version": 5
         },
         {
@@ -86,12 +95,21 @@
             "version": 5
         },
         {
-            "name": "Wrapped EVER",
+            "name": "Bridge",
             "chainId": 1,
-            "symbol": "WEVER",
+            "symbol": "BRIDGE",
             "decimals": 9,
-            "address": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
-            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg",
+            "address": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BRIDGE/logo.svg",
+            "version": 5
+        },
+        {
+            "name": "Qube",
+            "chainId": 1,
+            "symbol": "QUBE",
+            "decimals": 9,
+            "address": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/QUBE/logo.svg",
             "version": 5
         },
         {
