@@ -32,6 +32,15 @@
             "version": 5
         },
         {
+            "name": "EVA",
+            "chainId": 1,
+            "symbol": "EVA",
+            "decimals": 9,
+            "address": "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4",
+            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/EVA/logo.svg",
+            "version": 5
+        },
+        {
             "name": "OccamFi",
             "chainId": 1,
             "symbol": "OCC",
