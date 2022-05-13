@@ -41,69 +41,6 @@
             "version": 5
         },
         {
-            "name": "OccamFi",
-            "chainId": 1,
-            "symbol": "OCC",
-            "decimals": 6,
-            "address": "0:c4eadf9a5bbb06ff582607d274e9c787aa65bc4a275ad703fd232c7c65b6a3c2",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/OCC/logo.png",
-            "version": 5
-        },
-        {
-            "name": "Liqwid Finance",
-            "chainId": 1,
-            "symbol": "LQX",
-            "decimals": 6,
-            "address": "0:c3644f9a7990df4682a4815405191378d2a5a2c6d498f8c432ee91d41fd42105",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/LQX/logo.png",
-            "version": 5
-        },
-        {
-            "name": "ADAX Pro",
-            "chainId": 1,
-            "symbol": "ADAX",
-            "decimals": 6,
-            "address": "0:c1a78b3c082a91405579959f0398a4a78abc7d4832c93f5da5ca18f440c91eb6",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ADAX/logo.png",
-            "version": 5
-        },
-        {
-            "name": "ErgoDex",
-            "chainId": 1,
-            "symbol": "ERGO",
-            "decimals": 6,
-            "address": "0:d59c00be81e78c9a733de993f1ac9a1656ae8537dfa3f5aa9b66ba0c1a401dec",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/ERGO/logo.png",
-            "version": 5
-        },
-        {
-            "name": "Ardana",
-            "chainId": 1,
-            "symbol": "DANA",
-            "decimals": 6,
-            "address": "0:dfb469b5ffe699b6347cc5300f89a2b6563f7796262a0d5f865dea5c5cbd5ada",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/DANA/logo.png",
-            "version": 5
-        },
-        {
-            "name": "Liqwid DAO Token",
-            "chainId": 1,
-            "symbol": "LQ",
-            "decimals": 6,
-            "address": "0:4e72c5630af97744dac251221c3f16e4d4c0c8cdb13d4e301765ed2e9e52b496",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/LQ/logo.png",
-            "version": 5
-        },
-        {
-            "name": "CardWallet",
-            "chainId": 1,
-            "symbol": "CW",
-            "decimals": 6,
-            "address": "0:d320bc356f5277a890987a9212c63037ccf44346f8733a46d1d8fe8d62526843",
-            "logoURI": "https://raw.githubusercontent.com/tonred/dex-assets/main/icons/CW/logo.png",
-            "version": 5
-        },
-        {
             "name": "Bridge",
             "chainId": 1,
             "symbol": "BRIDGE",
