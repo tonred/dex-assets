@@ -50,6 +50,15 @@
             "version": 5
         },
         {
+            "name": "Tether",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+            "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
+            "version": 5
+        },
+        {
             "name": "Wrapped BTC",
             "chainId": 1,
             "symbol": "WBTC",
